@@ -6,3 +6,4 @@ if (n<5){
 }mmkjk,knj
 var x=15
 var y = 1
+
